@@ -4,7 +4,7 @@
 ***Conteúdo da Aula:***
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-cla-obj-log-ori-obj-com-bas)
-* [ ] [Mas o Que Seriam Classes.](https://github.com///Devsgeeknerd/cla-mas-que-ser-cla-cla-obj-log-ori-obj-com-bas) &#128679;
+* [x] [Mas o Que Seriam Classes.](https://github.com///Devsgeeknerd/cla-mas-que-ser-cla-cla-obj-log-ori-obj-com-bas)
 * [ ] [E o Que Seriam os Objetos?](https://github.com/Devsgeeknerd/cla-e-que-ser-obj-cla-obj-log-ori-obj-com-bas) &#128679;
 * [ ] [Representação de Classes na UML.](https://github.com/Devsgeeknerd/cla-rep-cla-uml-cla-obj-log-ori-obj-com-bas) &#128679;
 * [ ] [Começando o Projeto “Zoológico”.](https://github.com/Devsgeeknerd/cla-com-pro-zoo-cla-obj-log-ori-obj-com-bas) &#128679;
