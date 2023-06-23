@@ -8,7 +8,7 @@
 * [x] [E o Que Seriam os Objetos?](https://github.com/Devsgeeknerd/cla-e-que-ser-obj-cla-obj-log-ori-obj-com-bas)
 * [x] [Representação de Classes na UML.](https://github.com/Devsgeeknerd/cla-rep-cla-uml-cla-obj-log-ori-obj-com-bas)
 * [x] [Começando o Projeto “Zoológico”.](https://github.com/Devsgeeknerd/cla-com-pro-zoo-cla-obj-log-ori-obj-com-bas)
-* [ ] [O Que é Uma Classe?](https://github.com/Devsgeeknerd/cla-o-que-uma-cla-cla-obj-log-ori-obj-com-bas) &#128679;
+* [x] [O Que é Uma Classe?](https://github.com/Devsgeeknerd/cla-o-que-uma-cla-cla-obj-log-ori-obj-com-bas)
 * [ ] [Definindo Atributos em Uma Classe.](https://github.com/Devsgeeknerd/cla-def-atr-uma-cla-cla-obj-log-ori-obj-com-bas) &#128679;
 
 <!-- Informações -->
